@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @EEVEE4U
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me -> You can't
-- 😄 Pronouns: They / Them
-- ⚡ Fun fact: This is a fun fact
+# Hey there, I'm SyEevee! 🌟
 
-- Everything is said sarcastically ofcourse
+## About Me 🚀
 
-<!---
-EEVEE4U/EEVEE4U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently exploring the vast world of software development.
+- 🌱 Learning new languages and frameworks to level up my skills.
+- 🎮 Diamond and Pearl is best
+
+## Tech Stack ⚙️
+
+- Languages: Python, JavaScript, C++
+- Frameworks: Flask, React
+- Databases: MySQL, MongoDB
+- Tools: Git, VS Code, Docker
+
+## Let's Connect 🤝
+
+I'm always up for a friendly battle or a code collaboration. Connect with me on social platforms:
+
+- [Twitter](https://twitter.com/SyEevee)
+- [LinkedIn](https://www.linkedin.com/in/syeevee/)
+
+## Fun Facts 🎉
+
+- I remember Gen I and II
+- I like oran berries
+
+Thanks for dropping by! Let's code together and build a world where bugs are rare and features evolve into something amazing! 💻✨

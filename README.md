@@ -17,8 +17,8 @@
 
 I'm always up for a friendly battle or a code collaboration. Connect with me on social platforms:
 
-- [Twitter](https://twitter.com/SyEevee)
 - [LinkedIn](https://www.linkedin.com/in/syeevee/)
+- [Instagram](https://www.instagram.com/pixeevee/)
 
 ## Fun Facts 🎉
 

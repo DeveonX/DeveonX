@@ -8,7 +8,8 @@
 
 ## Tech Stack ⚙️
 
-- Languages: Python, JavaScript, C++
+- Languages: Fluent in Python, JavaScript, Learning C++ and Rust
+- Machine Learning - Tensorflow, (Keras), Pytorch
 - Frameworks: Flask, React
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
@@ -17,12 +18,13 @@
 
 I'm always up for a friendly battle or a code collaboration. Connect with me on social platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/syeevee/)
+- [LinkedIn](https://www.linkedin.com/in/shivam-chauhan-11405628b/)
 - [Instagram](https://www.instagram.com/pixeevee/)
 
 ## Fun Facts 🎉
 
 - I remember Gen I and II
 - I like oran berries
+- Can catch bug type
 
-Thanks for dropping by! Let's code together and build a world where bugs are rare and features evolve into something amazing! 💻✨
+Thanks for dropping by! Let's code together and build a world where catching bugs is as rare as Shiny and features evolve into something Legendary! 💻✨

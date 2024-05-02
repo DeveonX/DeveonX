@@ -19,7 +19,6 @@
 I'm always up for a friendly battle or a code collaboration. Connect with me on social platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/shivam-chauhan-11405628b/)
-- [Instagram](https://www.instagram.com/pixeevee/)
 
 ## Fun Facts 🎉
 

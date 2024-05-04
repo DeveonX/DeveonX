@@ -14,12 +14,6 @@
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
 
-## Let's Connect 🤝
-
-I'm always up for a friendly battle or a code collaboration. Connect with me on social platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/shivam-chauhan-11405628b/)
-
 ## Fun Facts 🎉
 
 - I remember Gen I and II

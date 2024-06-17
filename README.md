@@ -21,3 +21,5 @@
 - Can catch bug type
 
 Thanks for dropping by! Let's code together and build a world where catching bugs is as rare as Shiny and features evolve into something Legendary! 💻✨
+
+![Discord](https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000) [Chat](https://discord.com/invite/MjSCEhNZ)

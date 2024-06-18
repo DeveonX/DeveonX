@@ -10,7 +10,7 @@
 
 - Languages: Fluent in Python, JavaScript, Learning C++ and Rust
 - Machine Learning - Tensorflow, (Keras), Pytorch
-- Frameworks: Flask, React, Learning Flutter
+- Frameworks: Flask, React, Nextjs and Flutter
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
 

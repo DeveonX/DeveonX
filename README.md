@@ -8,9 +8,10 @@
 
 ## Tech Stack ⚙️
 
-- Languages: Fluent in Python, JavaScript, Learning C++ and Rust
+- Languages: Fluent in Python, JavaScript
+- Good enough in C++ and Rust
 - Machine Learning - Tensorflow, (Keras), Pytorch
-- Frameworks: Flask, React, Nextjs and Flutter
+- Frameworks: Flask, React, Nextjs and React Native
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
 

@@ -1,4 +1,4 @@
-# Hey there, I'm Deveon! 🌟
+# Hey there! 🌟
 
 ## About Me 🚀
 
@@ -15,11 +15,7 @@
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
 
-## Fun Facts 🎉
-
-- I remember Gen I and II
-- I like oran berries
-- Can catch bug type
+- Can catch bug type quickly
 
 Thanks for dropping by! Let's code together and build a world where catching bugs is as rare as Shiny and features evolve into something Legendary! 💻✨
 
